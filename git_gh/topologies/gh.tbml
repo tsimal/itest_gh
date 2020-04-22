@@ -6,7 +6,7 @@
     <property name="author">TSimal</property>
     <property name="dateCreated">2020-04-22T17:19:56.626+02:00</property>
     <property name="notes"/>
-    <property name="dateModified">2020-04-22T17:21:06.907+02:00</property>
+    <property name="dateModified">2020-04-22T18:19:04.024+02:00</property>
     <property name="creationTool" vendor="com.fnfr">com.fnfr.itest.topology.tbml.diagram</property>
     <property name="creationToolVersion" vendor="com.fnfr">8.1.0.201911080855</property>
   </header>
@@ -16,18 +16,24 @@
         <boundary height="100" width="100" x="1331" y="450"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/Modem_32.gif</property>
         <property name="name">modem1</property>
-        <property name="inventoryName"></property>
+        <property name="inventoryName"/>
       </resource>
       <resource guid="f6780687-ba35-4637-8fad-ddd025e9e073" id="resource_1" type="storage">
         <boundary height="100" width="100" x="1245" y="713"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/Storage-Dev_32.gif</property>
         <property name="name">storage1</property>
-        <property name="inventoryName"></property>
+        <property name="inventoryName"/>
       </resource>
       <resource guid="25348efc-3912-4c05-9137-81ddaafa92a0" id="resource_2" type="router">
         <boundary height="100" width="100" x="538" y="529"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/router_32.gif</property>
         <property name="name">router1</property>
+        <property name="inventoryName"/>
+      </resource>
+      <resource guid="8fcda34e-f9b5-4e21-866a-aee3cb010c2d" id="resource_3" type="server">
+        <boundary height="100" width="100" x="998" y="849"/>
+        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/server_32.gif</property>
+        <property name="name">server1</property>
         <property name="inventoryName"></property>
       </resource>
     </resources>
