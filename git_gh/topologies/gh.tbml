@@ -6,7 +6,7 @@
     <property name="author">TSimal</property>
     <property name="dateCreated">2020-04-22T17:19:56.626+02:00</property>
     <property name="notes"/>
-    <property name="dateModified">2020-04-22T18:20:10.786+02:00</property>
+    <property name="dateModified">2020-04-23T09:15:52.749+02:00</property>
     <property name="creationTool" vendor="com.fnfr">com.fnfr.itest.topology.tbml.diagram</property>
     <property name="creationToolVersion" vendor="com.fnfr">8.1.0.201911080855</property>
   </header>
@@ -34,18 +34,24 @@
         <boundary height="100" width="100" x="998" y="849"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/server_32.gif</property>
         <property name="name">server1</property>
-        <property name="inventoryName"></property>
+        <property name="inventoryName"/>
       </resource>
       <resource guid="529c10b5-9f50-4388-9af6-e820009bb31b" id="resource_4" type="handset">
         <boundary height="100" width="100" x="1223" y="290"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/handset_32.gif</property>
         <property name="name">handset1</property>
-        <property name="inventoryName"></property>
+        <property name="inventoryName"/>
       </resource>
       <resource guid="0f9a731c-0033-4ae0-8a21-41c04c878e13" id="resource_5" type="storage">
         <boundary height="100" width="100" x="1153" y="584"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/Storage-Dev_32.gif</property>
         <property name="name">storage2</property>
+        <property name="inventoryName"/>
+      </resource>
+      <resource guid="b216c05b-4ad0-4ef6-9f07-bd21fe4e75cd" id="resource_6" type="bridge">
+        <boundary height="100" width="100" x="662" y="347"/>
+        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/bridge_32.gif</property>
+        <property name="name">bridge1</property>
         <property name="inventoryName"></property>
       </resource>
     </resources>
